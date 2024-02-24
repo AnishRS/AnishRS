@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anish R Sekhar 
-- 👀 I’m interested in machine learning nad photography
-- 🌱 I’m currently learning machine learning using Python and R
-- 📫 How to reach m - gmail - anishsekhar29@gmail.com, 
+- 👀 I’m interested in machine learning 
+- 🌱 I’m currently learning machine learning using Python
+- 📫 How to reach me - gmail - anishsekhar29@gmail.com, 
  instagram handle - https://www.instagram.com/flash_wanderer/
 
 <!---
